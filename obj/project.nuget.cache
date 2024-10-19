@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Oevd74wCpyU=",
+  "success": true,
+  "projectFilePath": "D:\\My Projects\\New folder\\UtilityApp\\UtilityApp\\UtilityApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.environmentvariables.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.fileextensions.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.0-rc.2.24473.5\\microsoft.extensions.configuration.json.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0-rc.2.24473.5\\microsoft.extensions.fileproviders.abstractions.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.0-rc.2.24473.5\\microsoft.extensions.fileproviders.physical.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.0-rc.2.24473.5\\microsoft.extensions.filesystemglobbing.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-rc.2.24473.5\\microsoft.extensions.primitives.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.io.pipelines\\9.0.0-rc.2.24473.5\\system.io.pipelines.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.encodings.web\\9.0.0-rc.2.24473.5\\system.text.encodings.web.9.0.0-rc.2.24473.5.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\system.text.json\\9.0.0-rc.2.24473.5\\system.text.json.9.0.0-rc.2.24473.5.nupkg.sha512"
+  ],
+  "logs": []
+}
